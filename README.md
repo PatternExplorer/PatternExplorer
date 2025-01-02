@@ -4,7 +4,7 @@ I'm a passionate Data Science student with a strong foundation in various techno
 
 ![Data Science](![6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2](https://github.com/user-attachments/assets/2150734f-c866-4db4-8541-eb73db6880ff)
 )
-## 🛠️ Skills
+## 🛠️Learning  Skills
 
 - **Programming Languages**: 🐍 Python
 - **Databases**: 🗄️ MongoDB, 🗃️ MySQL, 📊 Apache Cassandra
@@ -17,7 +17,7 @@ I'm a passionate Data Science student with a strong foundation in various techno
 - **LinkedIn**: [amitgehlot07](https://www.linkedin.com/in/amitgehlot07/)
 - **Email**: amitgehlot9934@gmail.com
 - **Instagram**: [@in_fnite07](https://www.instagram.com/in_fnite07/)
-## 🌱 Currently Learning
+## 🌱 Future Learning
 
 - 📚 Advanced Machine Learning Techniques
 - 🛠️ Data Engineering Concepts
